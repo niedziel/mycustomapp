@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My Custom App Table" max_length="40" name="x_snc_my_custom_ap_my_custom_app_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="My string field" max_length="40" name="my_string_field" type="string">
+            <choice/>
+        </element>
+    </element>
+</database>
